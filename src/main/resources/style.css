@@ -1,0 +1,11 @@
+.root {
+    -fx-font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    -fx-font-size: 13px;
+    -fx-base: #f3f5f7;
+}
+.panel { -fx-background-color: #ffffff; }
+.section-title { -fx-font-weight: bold; -fx-text-fill: #1f3b57; }
+.hint { -fx-text-fill: #607d8b; -fx-font-size: 12px; }
+.canvas-frame { -fx-background-color: white; -fx-border-color: #d5dbe1; }
+.button { -fx-background-radius: 4; }
+.toggle-button { -fx-background-radius: 4; }
